@@ -6,7 +6,7 @@ I'm a Frontend Developer passionate about building interactive and user-friendly
 
 - 🎓 Bachelor's in Business Information Systems from Westminster International University in Tashkent
 - 💻 Proficient in **JavaScript**, **TypeScript**, **React.js**, **Next.js**
-- 🌟 Currently using **Next.js** on my frontend projects and **React-Native** for mobile applications
+- 🌟 Currently using **Next.js** on frontend projects and **React-Native** for mobile applications
 - 🔭 Working on innovative frontend projects
 - 🌱 Interested in contributing open source projects when I'm free
 - 📫 Reach me at: [xurrambeks@gmail.com]
